@@ -9,7 +9,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <p align="center"><strong>{Abierto a contratación}</strong></p>
 
-  <h1 align="center"> Hola mundo!! 👋, Soy Jesús </h1> 
+  <h1 align="center">👋 HOLA MUNDO!!, Soy Jesús </h1> 
 
 ## `👨🏻‍💻 Sobre mí:`
 
@@ -34,7 +34,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; 
 
-## `🛠 Tech Stack:`
+## `🛠 Tecnologías:`
 ### Heramientas:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
@@ -83,7 +83,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ## `✔️ Consulta los Repositorios y no olvides dar una estrella ⬇️`
 
-:star: From [J3susGB](https://github.com/J3susGB)
+:star: From [J3susGB](https://github.com/J3susGB?tab=repositories)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/J3susGB)  
 

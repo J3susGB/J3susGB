@@ -9,7 +9,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <p align="center"><strong>{Abierto a contratación}</strong></p>
 
-  <h1 align="center">👋 Hola mundo, soy Jesús </h1> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&center=true&multiline=true&width=435&lines=Hola+mundo!+Soy+Jesús!;Python+Data+Analyst+Python+Developer)](https://git.io/typing-svg)
 
 ## `👨🏻‍💻 Sobre mí:`
 

@@ -9,7 +9,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <p align="center"><strong>{Abierto a contratación}</strong></p>
 
-  <h1 align="center">👋 HOLA MUNDO!!, Soy Jesús </h1> 
+  <h1 align="center">👋 Hola mundo!!<br>Soy Jesús </h1> 
 
 ## `👨🏻‍💻 Sobre mí:`
 
@@ -85,7 +85,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 :star: From [J3susGB](https://github.com/J3susGB?tab=repositories)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/J3susGB)  
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](hhttps://github.com/J3susGB?tab=repositories)  
 
  
 ***************************************************************

@@ -21,7 +21,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
   </h3>
 </div>
 
-- 💡 Me gusta explorar nuevas tecnologías`*
+- 💡 Me gusta explorar *`nuevas tecnologías`*
 - 🔭 Actualmente estoy trabajando en *`análisis de datos con python`* and *`desarrollo front y back con python`*
 - 🌱 Actualmente estoy perfeccionando mis habilidades en *`Desarrollo de Aplicaciones Multiplataforma`*
 - 👯 Estoy buscando colaborar en proyectos de *`Análisis de datos con Python`* y *`Desarrollo con Python`*
@@ -37,12 +37,12 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ## `🛠 Tech Stack:`
 ### Heramientas:
 
-[Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=lightgrey&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)&nbsp;
-[Visual Studio](https://img.shields.io/badge/-VSCODE-05122A?style=flat&logo=Visual-Studio-Code&logoColor=007ACC&link=https://code.visualstudio.com/)&nbsp;
-[Jupiter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-[Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
-[Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-VSCODE-05122A?style=flat&logo=Visual-Studio-Code&logoColor=007ACC&link=https://code.visualstudio.com/)&nbsp;
+![Jupiter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ### Front-end:
 [HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=F05032&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)&nbsp;

@@ -49,7 +49,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 
-### Backend & Análisis de datos:
+### Back-end & Análisis de datos:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=55a6ca)&nbsp;

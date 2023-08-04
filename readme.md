@@ -21,8 +21,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
   </h3>
 </div>
 
-- 💡 Me gusta explorar  *`nuevas tecnologías`*
-- 🔭 Actualmente estoy trabajando en *`análisis de datos con python`*  and  *`desarrollo front y back con python`*
+- 💡 Me gusta explorar  *`Nuevas tecnologías`*
+- 🔭 Actualmente estoy trabajando en *`Análisis de datos con Python`*  y  *`Desarrollo con Python`*
 - 🌱 Actualmente estoy perfeccionando mis habilidades en  *`Desarrollo de Aplicaciones Multiplataforma`*
 - 👯 Estoy buscando colaborar en proyectos de  *`Análisis de datos con Python`*  y  *`Desarrollo con Python`*
 
@@ -49,7 +49,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 
-### Backend & Data Analysis:
+### Backend & Análisis de datos:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=55a6ca)&nbsp;
@@ -60,7 +60,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![PowerBI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=power-bi&logoColor=yellow)\
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=darkgreen)
 
-### Databases:
+### Bases de datos:
 
 ![SQL](https://img.shields.io/badge/-SQL:-05122A?style=flat&logo=sql&logoColor=FFA611)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA611)&nbsp;

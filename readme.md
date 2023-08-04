@@ -9,7 +9,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <p align="center"><strong>{Abierto a contratación}</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=khand&weight=900&size=30&pause=1000&color=F7840B&center=true&multiline=true&width=435&lines=%F0%9F%91%8B%C2%A1Hola+mundo!+Soy+Jes%C3%BAs!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=khand&weight=900&size=30&pause=1000&color=F7840B&center=true&multiline=true&width=435&lines=%F0%9F%91%8B%C2%A1Hola+mundo!+Soy+Jes%C3%BAs)](https://git.io/typing-svg)
 
 ## `👨🏻‍💻 Sobre mí:`
 

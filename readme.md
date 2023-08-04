@@ -9,7 +9,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <p align="center"><strong>{Abierto a contratación}</strong></p>
 
-  <h1 align="center">👋 Hola mundo!!<br>Soy Jesús </h1> 
+  <h1 align="center">👋 Hola mundo, soy Jesús </h1> 
 
 ## `👨🏻‍💻 Sobre mí:`
 

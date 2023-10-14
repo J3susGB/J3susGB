@@ -58,7 +58,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&logoColor=white)&nbsp;
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-05122A?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=power-bi&logoColor=yellow)\
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=darkgreen)
 
 ### Bases de datos:
 

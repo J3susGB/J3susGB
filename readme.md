@@ -37,7 +37,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="php.svg" alt="css3" width="40" height="40"/></a>&nbsp;
 <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp; -->
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; 
+<!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;  -->
 
 ## `🛠 Tecnologías:`
 ### Heramientas:
@@ -52,6 +52,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ### Front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=F05032&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 
 ### Backend & Análisis de datos:

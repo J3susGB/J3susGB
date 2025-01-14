@@ -60,7 +60,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ### Backend Desarrollo Web:
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=777BB4)&nbsp;
 ![MVC](https://img.shields.io/badge/-Model%20View%20Controller-05122A?style=flat&logo=diagrams.net&logoColor=orange)&nbsp;
-![Active Record](https://img.shields.io/badge/-Active%20Record-05122A?style=flat&logo=openbook&logoColor=orange)&nbsp;
+![Active Record](https://img.shields.io/badge/-Active%20Record-05122A?style=flat&logo=code&logoColor=lightblue)&nbsp;
+
 
 ### Análisis de datos:
 

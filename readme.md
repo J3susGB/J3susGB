@@ -15,22 +15,23 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <div>
   <h3>
-   Soy Analista de Datos y actualmente estoy completando mi formación como Desarrollador de Aplicaciones Multiplataforma (DAM). Me encuentro reforzando mi aprendizaje, tanto con formación reglada como de forma autodidacta, profundizando en otras tecnologías para el análisis de datos y Machine Learning. 
+   Comencé mi formación en el área tecnológica como Analista de Datos y conforme iba adquiriendo conocimientos, descubrí que lo que realmente me apasiona es el Desarrollo Web, y decidí volcar mi formación en ese área. Me encuentro reforzando mi aprendizaje, tanto con formación reglada como de forma autodidacta, profundizando en otras tecnologías para el Desarrollo de Aplicaciones Web.
     <br>
     Busco trabajar en equipos donde pueda aportar y desarrollar mis conocimientos y aptitudes adquiridas durante los últimos años, orientadas al resultado y la calidad, en un ambiente de innovación y crecimiento.
   </h3>
 </div>
 
 - 💡 Me gusta explorar  *`Nuevas tecnologías`*
-- 🔭 Actualmente estoy trabajando en *`Análisis de datos con Python`*  y  *`Desarrollo con Python`*
-- 🌱 Actualmente estoy perfeccionando mis habilidades en  *`Desarrollo de Aplicaciones Multiplataforma`*
-- 👯 Estoy buscando colaborar en proyectos de  *`Análisis de datos con Python`*  y  *`Desarrollo con Python`*
+- 🔭 Actualmente estoy trabajando en *`Desarrollo Web`* 
+- 🌱 Actualmente estoy perfeccionando mis habilidades en  *`Desarrollo de Aplicaciones Web`*
+- 👯 Estoy buscando colaborar en proyectos de *`Desarrollo Web con PHP`*
 
 ## `⚙️ Uso diario:` 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp; 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="php.svg" alt="css3" width="40" height="40"/></a>&nbsp;
+<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp; -->
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; 
 

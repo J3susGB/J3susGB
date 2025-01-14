@@ -49,14 +49,20 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-### Front-end:
+### Front-end Desarrollo Web:
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=F05032&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=JavaScript&logoColor=F7DF1E)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=Sass&logoColor=CC6699)&nbsp;
 
 
 
-### Backend & Análisis de datos:
+### Backend Desarrollo Web:
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=777BB4)&nbsp;
+![MVC](https://img.shields.io/badge/-Model%20View%20Controller-05122A?style=flat&logo=diagrams.net&logoColor=orange)&nbsp;
+![Active Record](https://img.shields.io/badge/-Active%20Record-05122A?style=flat&logo=openbook&logoColor=orange)&nbsp;
+
+### Análisis de datos:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=55a6ca)&nbsp;

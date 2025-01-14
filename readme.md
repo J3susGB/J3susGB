@@ -4,7 +4,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 -->
 
 <div align="center">
-  <img src="Banner Data Analyst.png.png" alt="Logo" width="1150">
+  <img src="Banner_Daw.png" alt="Logo" width="1150">
 </div>  
 
 <p align="center"><strong>{Abierto a contratación}</strong></p>

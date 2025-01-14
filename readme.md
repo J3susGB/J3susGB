@@ -52,7 +52,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ### Front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=F05032&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=JavaScript&logoColor=F7DF1E)&nbsp;
+
 
 
 ### Backend & Análisis de datos:

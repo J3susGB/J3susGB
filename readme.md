@@ -15,7 +15,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <div>
   <h3>
-   Comencé mi formación en el área tecnológica como Analista de Datos y conforme iba adquiriendo conocimientos, descubrí que lo que realmente me apasiona es el Desarrollo Web, y decidí volcar mi formación en ese área. Me encuentro reforzando mi aprendizaje, tanto con formación reglada como de forma autodidacta, profundizando en otras tecnologías para el Desarrollo de Aplicaciones Web.
+   Comencé mi formación en el área tecnológica como Analista de Datos y conforme iba adquiriendo conocimientos, descubrí que lo que realmente me apasiona es el Desarrollo Web, y decidí volcar mi formación en ese área. 
+   <br>
+   Me encuentro reforzando mi aprendizaje, tanto con formación reglada como de forma autodidacta, profundizando en otras tecnologías para el Desarrollo de Aplicaciones Web.
     <br>
     Busco trabajar en equipos donde pueda aportar y desarrollar mis conocimientos y aptitudes adquiridas durante los últimos años, orientadas al resultado y la calidad, en un ambiente de innovación y crecimiento.
   </h3>
